@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>it</string>
 	<key>CFBundleDisplayName</key>
-	<string>Diplomate</string>
+	<string>Debate Gym</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -68,13 +68,13 @@
 		</dict>
 	</dict>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Diplomate needs microphone access for voice conversation practice.</string>
+	<string>Debate Gym needs microphone access for voice conversation practice.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>Diplomate uses speech recognition to understand your spoken Italian during conversation practice.</string>
+	<string>Debate Gym uses speech recognition to understand your spoken Italian during conversation practice.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Diplomate may need camera access for video conversation features.</string>
+	<string>Debate Gym may need camera access for video conversation features.</string>
 	<key>NSUserNotificationsUsageDescription</key>
-	<string>Diplomate sends notifications to remind you about your conversation practice sessions.</string>
+	<string>Debate Gym sends notifications to remind you about your conversation practice sessions.</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>

@@ -46,7 +46,7 @@ struct LoadingOverlay: View {
                         }
                     }
 
-                    Text("Diplomate")
+                    Text("Debate Gym")
                         .font(.system(size: 34, weight: .bold, design: .rounded))
                         .foregroundColor(.white)
 

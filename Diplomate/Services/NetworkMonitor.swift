@@ -4,7 +4,7 @@ import Combine
 
 class NetworkMonitor: ObservableObject {
     private let monitor = NWPathMonitor()
-    private let queue = DispatchQueue(label: "com.diplomate.app.networkmonitor")
+    private let queue = DispatchQueue(label: "com.debategym.app.networkmonitor")
 
     @Published var isConnected: Bool = true
     @Published var connectionType: ConnectionType = .unknown
